@@ -25,5 +25,5 @@
 ---
 
 - Low tax rates for globally competitive banking
-- Shrinkage to global "mean" vs. UK
+- [Shrinkage](https://www.sciencedirect.com/science/article/pii/S0022249616300025) to global ["mean" vs. UK](https://jrnold.github.io/bayesian_notes/shrinkage-and-hierarchical-models.html)
 - Atta boy [Bim Afolami](https://en.wikipedia.org/wiki/Bim_Afolami)!
