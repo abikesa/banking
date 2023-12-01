@@ -15,3 +15,11 @@
    - Used or abused?
 7. Present
 8. Future
+
+   ---
+
+- [Assets](https://en.wikipedia.org/wiki/Proprietary_trading)
+- [Bonds](https://en.wikipedia.org/wiki/Market_maker)
+- [Currencies](https://en.wikipedia.org/wiki/Volcker_Rule)
+- [Derivaties](https://en.wikipedia.org/wiki/Jamie_Dimon#Move_to_J.P._Morgan)
+- [Equities](https://www.jpmorganchase.com/about/our-leadership#dimon)
