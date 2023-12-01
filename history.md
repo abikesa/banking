@@ -23,3 +23,12 @@
 - [Currencies](https://en.wikipedia.org/wiki/Volcker_Rule)
 - [Derivaties](https://en.wikipedia.org/wiki/Jamie_Dimon#Move_to_J.P._Morgan)
 - [Equities](https://www.jpmorganchase.com/about/our-leadership#dimon)
+
+
+```
+     1. Meta vs. Physics
+                        \
+    3. Epistemology ->  2. Identity -> 5. Time -> 6. Change
+                        / 
+                         4. Ontology
+```
